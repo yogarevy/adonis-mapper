@@ -1,16 +1,24 @@
 {
   "name": "adonis-mapper",
   "version": "1.0.0",
-  "description": "Adonis response REST API mapper",
-  "main": "index.js",
+  "description": "Adonis REST API response mapper",
+  "main": " ",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/yogarevy/adonis-mapper.git"
-  }
+  },
+  "keywords": [
+    "adonisjs",
+    "response",
+    "mapping"
+  ],
+  "author": "Yoga Revy Setiadi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yogarevy/adonis-mapper/issues"
+  },
+  "homepage": "https://github.com/yogarevy/adonis-mapper#readme"
 }
