@@ -1,7 +1,7 @@
 'use strict'
 
 // @ts-ignore
-const BaseMapper = require('BaseMapper')
+const BaseMapper = use('Yogarevy/Src/BaseMapper')
 
 class MapperService {
     /**

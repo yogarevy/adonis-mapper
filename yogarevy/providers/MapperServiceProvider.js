@@ -1,6 +1,7 @@
 'use strict'
 
 const { ServiceProvider } = require('@adonisjs/fold')
+const MapperService = use('Yogarevy/Providers/MapperService')
 
 class MapperServiceProvider extends ServiceProvider {
   /**
@@ -13,7 +14,7 @@ class MapperServiceProvider extends ServiceProvider {
   register () {
     //
     this.app.singleton('Mapper', () => {
-      const MapperService = require('../src/MapperService')
+      // const MapperService = require('../src/MapperService')
       return new MapperService()
     })
   }
