@@ -1,7 +1,7 @@
 'use strict'
 
 // @ts-ignore
-const BaseMapper = use('Yogarevy/Src/BaseMapper')
+const BaseMapper = use('BaseMapper')
 
 class MapperService {
     /**

@@ -1,6 +1,6 @@
 {
   "name": "adonis-mapper",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Adonis REST API response mapper",
   "main": " ",
   "scripts": {
